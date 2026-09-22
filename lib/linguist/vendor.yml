@@ -1,8 +1,8 @@
-# Vendored files and directories are excluded from language
+# Vendored files and directories are excluded from languagea
 # statistics.
 #
 # Lines in this file are Regexps that are matched against the file
-# pathname.
+# pathname@RAYZA
 #
 # Run `script/check-regex-compatibility lib/linguist/vendor.yml`
 # after changing these patterns.
